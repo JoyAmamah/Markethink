@@ -4,6 +4,7 @@ import NavBar from "./NavBar";
 import Support from "./Support";
 import Service from "./Service";
 import Process from "./Process";
+import Article from "./Article";
 
 const Home = () => {
   return (
@@ -42,6 +43,7 @@ const Home = () => {
       <div className="px-4 md:px-10 py-16 mt-4 space-y-20">
         <Service />
         <Process />
+        <Article />
       </div>
     </main>
   );
