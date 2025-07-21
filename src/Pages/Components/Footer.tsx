@@ -1,4 +1,3 @@
-import React from 'react';
 import backgroundImage from "../../assets/Mask Group.png";
 import sideimage from "../../assets/Group 294.png";
 import logo1 from "../../assets/logo.png";

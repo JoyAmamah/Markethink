@@ -1,4 +1,3 @@
-import React from "react";
 import backgroundImage from "../../assets/hero.png";
 import NavBar from "./NavBar";
 import Support from "./Support";

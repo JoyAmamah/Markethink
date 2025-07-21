@@ -1,4 +1,3 @@
-import React from 'react';
 import facebook from '../../assets/facebook.png';
 import logitech from '../../assets/logitech.png';
 import amazon from '../../assets/amazon.png';

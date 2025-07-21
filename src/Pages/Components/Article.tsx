@@ -1,4 +1,3 @@
-import React from 'react';
 import seo from '../../assets/heroBackground.png';
 import group1 from "../../assets/Rectangle 334.png";
 import group2 from "../../assets/Rectangle 335.png";
